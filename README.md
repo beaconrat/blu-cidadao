@@ -10,4 +10,13 @@ Informações Gabrielli:
 
     - Spring Data JPA
 
+APIs 
+
+https://h-apigateway.conectagov.np.estaleiro.serpro.gov.br/api-cpf-light/v2/consulta/cpf
+https://h-apigateway.conectagov.np.estaleiro.serpro.gov.br/api-cpf-light/v2/consulta/identificao
+https://h-apigateway.conectagov.np.estaleiro.serpro.gov.br/api-cpf-light/v2/consulta/localizacao
+https://h-apigateway.conectagov.np.estaleiro.serpro.gov.br/api-cpf-light/v2/consulta/telemovel
+
+
+
     
